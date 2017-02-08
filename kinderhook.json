@@ -1,0 +1,294 @@
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "geolookup": 1
+  ,
+  "conditions": 1
+  }
+	}
+		,	"location": {
+		"type":"CITY",
+		"country":"US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"state":"IL",
+		"city":"Kinderhook",
+		"tz_short":"CST",
+		"tz_long":"America/Chicago",
+		"lat":"39.70000076",
+		"lon":"-91.15000153",
+		"zip":"62345",
+		"magic":"1",
+		"wmo":"99999",
+		"l":"/q/zmw:62345.1.99999",
+		"requesturl":"US/IL/Kinderhook.html",
+		"wuiurl":"https://www.wunderground.com/US/IL/Kinderhook.html",
+		"nearby_weather_stations": {
+		"airport": {
+		"station": [
+		{ "city":"Hannibal Rgnl AP, Hannibal, M", "state":"MO", "country":"US", "icao":"KHAE", "lat":"39.72000122", "lon":"-91.44000244" }
+		,{ "city":"Quincy", "state":"IL", "country":"US", "icao":"KUIN", "lat":"39.93999863", "lon":"-91.19000244" }
+		,{ "city":"Pittsfield", "state":"IL", "country":"US", "icao":"KPPQ", "lat":"39.63999939", "lon":"-90.77999878" }
+		,{ "city":"Jacksonville", "state":"IL", "country":"US", "icao":"KIJX", "lat":"39.77000046", "lon":"-90.23999786" }
+		]
+		}
+		,
+		"pws": {
+		"station": [
+		{
+		"neighborhood":"Near grub hollow",
+		"city":"Barry",
+		"state":"IL",
+		"country":"US",
+		"id":"KILBARRY5",
+		"lat":39.677124,
+		"lon":-91.101875,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"West of Downtown Barry",
+		"city":"Barry",
+		"state":"IL",
+		"country":"US",
+		"id":"KILBARRY3",
+		"lat":39.693542,
+		"lon":-91.043053,
+		"distance_km":9,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Continental Cement Company",
+		"city":"Hannibal",
+		"state":"MO",
+		"country":"US",
+		"id":"KMOHANNI6",
+		"lat":39.679939,
+		"lon":-91.313797,
+		"distance_km":14,
+		"distance_mi":8
+		},
+		{
+		"neighborhood":"Mark Twain Riverboat Landing",
+		"city":"Hannibal",
+		"state":"MO",
+		"country":"US",
+		"id":"KMOHANNI7",
+		"lat":39.711636,
+		"lon":-91.353874,
+		"distance_km":17,
+		"distance_mi":10
+		},
+		{
+		"neighborhood":"West Of Pittsfield",
+		"city":"Pittsfield",
+		"state":"IL",
+		"country":"US",
+		"id":"KILPITTS4",
+		"lat":39.605312,
+		"lon":-90.904404,
+		"distance_km":23,
+		"distance_mi":14
+		},
+		{
+		"neighborhood":"Crosscreek Subdivision",
+		"city":"New London",
+		"state":"MO",
+		"country":"US",
+		"id":"KMONEWLO2",
+		"lat":39.659782,
+		"lon":-91.430496,
+		"distance_km":24,
+		"distance_mi":14
+		},
+		{
+		"neighborhood":"North Eastern Ralls County WB2UFO",
+		"city":"New London",
+		"state":"MO",
+		"country":"US",
+		"id":"KMONEWLO1",
+		"lat":39.635590,
+		"lon":-91.439972,
+		"distance_km":25,
+		"distance_mi":15
+		},
+		{
+		"neighborhood":"Fishhook",
+		"city":"Baylis",
+		"state":"IL",
+		"country":"US",
+		"id":"KILBAYLI2",
+		"lat":39.795540,
+		"lon":-90.861580,
+		"distance_km":26,
+		"distance_mi":16
+		},
+		{
+		"neighborhood":"N0YWD",
+		"city":"Louisiana",
+		"state":"MO",
+		"country":"US",
+		"id":"KMOLOUIS2",
+		"lat":39.442196,
+		"lon":-91.061928,
+		"distance_km":29,
+		"distance_mi":17
+		},
+		{
+		"neighborhood":"S 28th Street",
+		"city":"Quincy",
+		"state":"IL",
+		"country":"US",
+		"id":"KILQUINC9",
+		"lat":39.912800,
+		"lon":-91.371239,
+		"distance_km":30,
+		"distance_mi":18
+		},
+		{
+		"neighborhood":"Palmyra Fire Station",
+		"city":"Palmyra",
+		"state":"MO",
+		"country":"US",
+		"id":"KMOPALMY5",
+		"lat":39.796703,
+		"lon":-91.522850,
+		"distance_km":33,
+		"distance_mi":20
+		},
+		{
+		"neighborhood":"KB9HGI - N 17th St.",
+		"city":"Quincy",
+		"state":"IL",
+		"country":"US",
+		"id":"KILQUINC13",
+		"lat":39.953609,
+		"lon":-91.383423,
+		"distance_km":34,
+		"distance_mi":20
+		},
+		{
+		"neighborhood":"Elkhorn",
+		"city":"Mount Sterling",
+		"state":"IL",
+		"country":"US",
+		"id":"KILMOUNT4",
+		"lat":39.863323,
+		"lon":-90.759781,
+		"distance_km":37,
+		"distance_mi":22
+		},
+		{
+		"neighborhood":"Adams County Emergency Management",
+		"city":"Camp Point",
+		"state":"IL",
+		"country":"US",
+		"id":"KILCAMPP3",
+		"lat":40.039608,
+		"lon":-91.069923,
+		"distance_km":38,
+		"distance_mi":23
+		},
+		{
+		"neighborhood":"LIVE WEATHER",
+		"city":"Quincy",
+		"state":"IL",
+		"country":"US",
+		"id":"KILQUINC8",
+		"lat":39.996979,
+		"lon":-91.381355,
+		"distance_km":38,
+		"distance_mi":23
+		}
+		]
+		}
+		}
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Kinderhook, IL",
+		"city":"Kinderhook",
+		"state":"IL",
+		"state_name":"Illinois",
+		"country":"US",
+		"country_iso3166":"US",
+		"zip":"62345",
+		"magic":"1",
+		"wmo":"99999",
+		"latitude":"39.70000076",
+		"longitude":"-91.15000153",
+		"elevation":"147.8"
+		},
+		"observation_location": {
+		"full":"Near grub hollow, Barry, Illinois",
+		"city":"Near grub hollow, Barry",
+		"state":"Illinois",
+		"country":"US",
+		"country_iso3166":"US",
+		"latitude":"39.677124",
+		"longitude":"-91.101875",
+		"elevation":"722 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"KILBARRY5",
+		"observation_time":"Last Updated on February 8, 11:23 AM CST",
+		"observation_time_rfc822":"Wed, 08 Feb 2017 11:23:19 -0600",
+		"observation_epoch":"1486574599",
+		"local_time_rfc822":"Wed, 08 Feb 2017 11:24:11 -0600",
+		"local_epoch":"1486574651",
+		"local_tz_short":"CST",
+		"local_tz_long":"America/Chicago",
+		"local_tz_offset":"-0600",
+		"weather":"Overcast",
+		"temperature_string":"25.5 F (-3.6 C)",
+		"temp_f":25.5,
+		"temp_c":-3.6,
+		"relative_humidity":"93%",
+		"wind_string":"From the NW at 7.3 MPH",
+		"wind_dir":"NW",
+		"wind_degrees":315,
+		"wind_mph":7.3,
+		"wind_gust_mph":0,
+		"wind_kph":11.7,
+		"wind_gust_kph":0,
+		"pressure_mb":"1017",
+		"pressure_in":"30.03",
+		"pressure_trend":"0",
+		"dewpoint_string":"24 F (-5 C)",
+		"dewpoint_f":24,
+		"dewpoint_c":-5,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"17 F (-8 C)",
+		"windchill_f":"17",
+		"windchill_c":"-8",
+		"feelslike_string":"17 F (-8 C)",
+		"feelslike_f":"17",
+		"feelslike_c":"-8",
+		"visibility_mi":"3.0",
+		"visibility_km":"4.8",
+		"solarradiation":"--",
+		"UV":"1","precip_1hr_string":"-999.00 in ( 0 mm)",
+		"precip_1hr_in":"-999.00",
+		"precip_1hr_metric":" 0",
+		"precip_today_string":"0.00 in (0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0",
+		"icon":"cloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/cloudy.gif",
+		"forecast_url":"http://www.wunderground.com/US/IL/Kinderhook.html",
+		"history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KILBARRY5",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=39.677124,-91.101875",
+		"nowcast":""
+	}
+}
+

@@ -1,0 +1,94 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Kinderhook, IL",
+		"city":"Kinderhook",
+		"state":"IL",
+		"state_name":"Illinois",
+		"country":"US",
+		"country_iso3166":"US",
+		"zip":"62345",
+		"magic":"1",
+		"wmo":"99999",
+		"latitude":"39.70000076",
+		"longitude":"-91.15000153",
+		"elevation":"147.8"
+		},
+		"observation_location": {
+		"full":"Near grub hollow, Barry, Illinois",
+		"city":"Near grub hollow, Barry",
+		"state":"Illinois",
+		"country":"US",
+		"country_iso3166":"US",
+		"latitude":"39.677124",
+		"longitude":"-91.101875",
+		"elevation":"722 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"KILBARRY5",
+		"observation_time":"Last Updated on February 6, 11:46 AM CST",
+		"observation_time_rfc822":"Mon, 06 Feb 2017 11:46:48 -0600",
+		"observation_epoch":"1486403208",
+		"local_time_rfc822":"Mon, 06 Feb 2017 11:47:10 -0600",
+		"local_epoch":"1486403230",
+		"local_tz_short":"CST",
+		"local_tz_long":"America/Chicago",
+		"local_tz_offset":"-0600",
+		"weather":"Overcast",
+		"temperature_string":"48.4 F (9.1 C)",
+		"temp_f":48.4,
+		"temp_c":9.1,
+		"relative_humidity":"90%",
+		"wind_string":"From the SE at 7.8 MPH",
+		"wind_dir":"SE",
+		"wind_degrees":135,
+		"wind_mph":7.8,
+		"wind_gust_mph":0,
+		"wind_kph":12.6,
+		"wind_gust_kph":0,
+		"pressure_mb":"1010",
+		"pressure_in":"29.83",
+		"pressure_trend":"0",
+		"dewpoint_string":"46 F (8 C)",
+		"dewpoint_f":46,
+		"dewpoint_c":8,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"45 F (7 C)",
+		"windchill_f":"45",
+		"windchill_c":"7",
+		"feelslike_string":"45 F (7 C)",
+		"feelslike_f":"45",
+		"feelslike_c":"7",
+		"visibility_mi":"10.0",
+		"visibility_km":"16.1",
+		"solarradiation":"--",
+		"UV":"3","precip_1hr_string":"-999.00 in ( 0 mm)",
+		"precip_1hr_in":"-999.00",
+		"precip_1hr_metric":" 0",
+		"precip_today_string":"0.00 in (0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0",
+		"icon":"cloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/cloudy.gif",
+		"forecast_url":"http://www.wunderground.com/US/IL/Kinderhook.html",
+		"history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KILBARRY5",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=39.677124,-91.101875",
+		"nowcast":""
+	}
+}

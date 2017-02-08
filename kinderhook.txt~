@@ -1,0 +1,135 @@
+
+
+
+---------------------
+
+3420464b9d7ac3d2
+Enter a city:
+You entered kinderhook
+http://api.wunderground.com/api/3420464b9d7ac3d2/geolookup/conditions/q/il/kinderhook.json
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "geolookup": 1
+  ,
+  "conditions": 1
+  }
+	}
+		,	"location": {
+		"type":"CITY",
+		"country":"US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"state":"IL",
+		"city":"Kinderhook",
+		"tz_short":"CST",
+		"tz_long":"America/Chicago",
+		"lat":"39.70000076",
+		"lon":"-91.15000153",
+		"zip":"62345",
+		"magic":"1",
+		"wmo":"99999",
+		"l":"/q/zmw:62345.1.99999",
+		"requesturl":"US/IL/Kinderhook.html",
+		"wuiurl":"https://www.wunderground.com/US/IL/Kinderhook.html",
+		"nearby_weather_stations": {
+		"airport": {
+		"station": [
+		]
+		}
+		,
+		"pws": {
+		"station": [
+		]
+		}
+		}
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Kinderhook, IL",
+		"city":"Kinderhook",
+		"state":"IL",
+		"state_name":"Illinois",
+		"country":"US",
+		"country_iso3166":"US",
+		"zip":"62345",
+		"magic":"1",
+		"wmo":"99999",
+		"latitude":"39.70000076",
+		"longitude":"-91.15000153",
+		"elevation":"147.8"
+		},
+		"observation_location": {
+		"full":", ",
+		"city":"",
+		"state":"",
+		"country":"",
+		"country_iso3166":"US",
+		"latitude":"",
+		"longitude":"",
+		"elevation":" ft"
+		},
+		"estimated": {
+		},
+		"station_id":"",
+		"observation_time":"Last Updated on , ",
+		"observation_time_rfc822":"",
+		"observation_epoch":"",
+		"local_time_rfc822":"Wed, 08 Feb 2017 11:21:05 -0600",
+		"local_epoch":"1486574465",
+		"local_tz_short":"CST",
+		"local_tz_long":"America/Chicago",
+		"local_tz_offset":"-0600",
+		"weather":"",
+		"temperature_string":" F ( C)",
+		"temp_f":null,
+		"temp_c":null,
+		"relative_humidity":"",
+		"wind_string":"Calm",
+		"wind_dir":"",
+		"wind_degrees":0,
+		"wind_mph":0,
+		"wind_gust_mph":0,
+		"wind_kph":0,
+		"wind_gust_kph":0,
+		"pressure_mb":"",
+		"pressure_in":"",
+		"pressure_trend":"",
+		"dewpoint_string":"NA",
+		"dewpoint_f":null,
+		"dewpoint_c":null,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":" F ( C)",
+		"feelslike_f":"",
+		"feelslike_c":"",
+		"visibility_mi":"",
+		"visibility_km":"",
+		"solarradiation":"--",
+		"UV":"--","precip_1hr_string":" in ( mm)",
+		"precip_1hr_in":"",
+		"precip_1hr_metric":"--",
+		"precip_today_string":" in ( mm)",
+		"precip_today_in":"",
+		"precip_today_metric":"--",
+		"icon":"",
+		"icon_url":"http://icons.wxug.com/i/c/k/.gif",
+		"forecast_url":"http://www.wunderground.com/US/IL/Kinderhook.html",
+		"history_url":"http://www.wunderground.com/history/airport/////DailyHistory.html",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=,",
+		"nowcast":""
+	}
+}
+
